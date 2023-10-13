@@ -1,0 +1,1 @@
+It would be more robust to be able to drop this file right into a folder without having to edit the text at the top of it specifying which python version is needed and which script to launch. Consider making it read from a txt or cfg file in the furture.
